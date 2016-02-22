@@ -1,0 +1,293 @@
+
+
+html{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font-family: 'Lato', sans-serif;
+    font-weight: 100px;
+	
+}
+
+body {
+	line-height: 1;
+
+
+
+}
+ ul {
+	list-style: none;
+	padding:0px;
+	font-weight: 100px;
+
+}
+
+a {
+
+color: #08c;
+text-decoration: none;
+
+
+}
+
+.page-home{
+	min-width: 15px;
+	color: #333;
+	font-family: 'Lato', sans-serif;
+	
+}
+
+.container {
+	min-width: 800px;
+}
+
+
+#site_header{
+	width: 100%;
+	height: 45px;
+	background: #000;
+
+}
+
+#site_header ul{
+	padding-top: 10px;
+	text-align: center;
+}
+
+#site_header li{
+	display: inline-block;
+	vertical-align: middle;
+	font-size: 14px;
+	color: #fff;
+	margin: 0 3.50%;
+	
+}
+
+
+#site_header li > a {
+	text-decoration: none;
+	color: #fff;
+}
+
+#site_header li > a:hover{
+	text-decoration: none;
+	color: #ccc;
+}
+
+.icon {
+	display: inline-block;
+	width: 24px;
+	height: 24px;
+}
+
+.apple_logo{
+	background: url("http://i.imgur.com/nAYmS7Q.png?1");
+}
+
+.search {
+	background: url("http://i.imgur.com/95wjrOS.png?1");
+}
+
+.checkout {
+	background: url("http://i.imgur.com/2skf2KX.png?1");
+}
+
+/* Feature */
+
+.feature{
+	background: #fff;
+}
+
+.feature_header {
+
+display: inline-block;
+	
+
+}
+
+.wrapper {
+
+}
+
+
+.iphone {
+float: left;
+margin-top: -150px;
+
+
+}
+
+.iphone-text {
+  float: left;
+   margin-top: 150px;
+ 
+ 
+   
+}
+
+.feature_header h1 {
+	margin-top: -15px;
+}
+.feature_header h2 {
+	font-weight: 100;
+	letter-spacing: 1px;
+}
+
+
+.listw {
+
+
+
+
+}
+
+ ul.fixinline {
+
+text-align: center;
+margin-left: 50px;
+margin-bottom: 60px;
+margin-top: 0;
+
+
+
+
+
+}
+
+
+ .linkwrapper {
+ display: inline-block;
+ vertical-align: middle;
+ margin: 0 2.00%;
+ letter-spacing: 2px;
+
+
+
+
+
+}
+
+ .linkwrapper2 {
+ display: inline-block;
+ vertical-align: middle;
+ margin: 0 1.00%;
+ letter-spacing: 2px;
+
+
+
+}
+
+
+
+
+.promos {
+	margin-bottom: 10px;
+	margin-top: 0px;
+}
+
+.promo_item {
+	display: inline-block;
+	width: 24.5%;
+	height: 200px;
+}
+
+#promo1 {
+	background: url("images/1.png") 50% 50% no-repeat;
+}
+
+#promo2 {
+	background: url("images/2.png") 50% 50% no-repeat;
+}
+
+#promo3 {
+	background: url("images/3.png") 50% 50% no-repeat;
+}
+
+#promo4 {
+	background: url("images/4.png") 50% 50% no-repeat;
+}
+
+.whitespace {
+text-align: center;
+color: #08c;
+font-weight: 100px;
+margin-bottom: 30px;
+}
+
+
+.site_footer {
+	 background-color: #f2f2f2;
+
+}
+
+.ac-gf-content {
+ 	height: 400px;
+	font-size: 11px;
+    line-height: 1.66667;
+    font-weight: 400;
+    letter-spacing: normal;
+    background-color: #f2f2f2;
+    color: #000 ;
+    min-width: 1024px;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    float:left;
+
+}
+
+.ac-gf-directory-column {
+ float:left;
+ display: block;
+ height: 100px;
+ text-align: left;
+ margin-left: 50px;
+ margin-right: 50px;
+}
+
+
+
+.everything{
+background-color: #f2f2f2;
+font-size: 11px;
+text-align: left;
+width: 100%;
+color: #999;
+padding: 20px 0 24px;
+width: 100%;
+font-size: 11px;
+text-align: left;
+
+
+ }
+
+.bc  {
+margin-left: 100px;
+
+
+}
+
+.firstc {
+
+}
+
+
+
+
+
+.amazing  {
+
+  width: 90%;
+
+
+ }
+
+.somethings  {
+display: inline-block;
+list-style: none;
+margin-left: 50px
+ }
+
+
+
